@@ -6,7 +6,8 @@ If you are in the same situation as me, I hope you will use this program to quic
 As a result, I hope you save time.
 
 # Solve
-![img1](https://user-images.githubusercontent.com/69499549/90411692-19044980-e0e7-11ea-8a03-0fc269bfd503.PNG)
+![img1](https://user-images.githubusercontent.com/69499549/90413234-2a4e5580-e0e9-11ea-88cd-e6f60355ef4f.PNG)
+
 
 
 # Copyright 2020. greenthings. ALL right reserved.
